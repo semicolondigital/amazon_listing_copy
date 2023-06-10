@@ -1,6 +1,6 @@
 # Amazon_Listing_Optimizer Example
 
-This repo serves as a template for how you can make a super simple appls on Sreamlit.
+This repo serves as a template for how you can make a super simple apps on Sreamlit.
 
 This can be deployed on the Streamlit platform. 
 
